@@ -1,0 +1,12 @@
+What are they?
+* Collection of shell commandds
+* Scripts can be executed manually or on a schedule
+
+Why would we want to use them
+* Compress log files every day
+* Backup home directory to Amazon S3 every day
+
+
+----------------
+
+chmod 775 <filename>   To give permission
